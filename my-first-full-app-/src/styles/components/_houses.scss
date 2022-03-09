@@ -1,0 +1,28 @@
+.houses{
+   // display: flex;
+   // flex-wrap: wrap;
+    .plan{
+        margin-top: 100px;
+        margin-left: 35px;
+        margin-right: 35px;
+        margin-bottom: 30px;
+        border-radius: 4px;
+       
+        
+        img{
+            position: relative;
+            object-fit: cover;
+            height: 550px;
+            width: 100%;
+            
+        }
+        p{
+            color: black;
+        }
+        
+        
+    
+        
+        
+    }
+}
